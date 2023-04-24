@@ -31,4 +31,9 @@ describe("Testando Pagina Inicial", () => {
     cy.get(".navbar-brand > .fa").click();
     cy.get(".menu-bar > .fa").should("be.visible");
   });
+
+  it("Verificar Menu Clicavell", () => {
+    cy.get(".navbar-brand > .fa").click();
+    cy.get(".menu-bar > .fa").should("be.visible");
+  });
 });
