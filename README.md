@@ -23,7 +23,7 @@ Tecnologias e Linguagens usados nesse projeto:
 - JavaScript
 - Git e Git Hub
 
-## :dart: Dicas
+Dicas
 
 Se possível faça o Curso Cypress: automação de testes E2E no Site Alura, para seguir as didáticas e entender os processos da automação de Teste
 
