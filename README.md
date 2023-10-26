@@ -23,9 +23,10 @@ Tecnologias e Linguagens usados nesse projeto:
 - JavaScript
 - Git e Git Hub
 
-  ## Dicas
+  ## :dart: Dicas
 
-  sdkpdjgodnjakngojnasdgojnaojgnaojdngonadojgnojagnodjangojadngojndlagnaojknglokdnagnoangdondapkgaopjk.
+Projeto feito junto ao Curso Cypress: automação de testes E2E no Site Alura, com o objetivo de desenvolver e aperfeiçoar varias 
+tecnicas de programação de Testes com o axulio do Cypress.
 
 Made by <a href="https://github.com/Luca5Fernandes" target="_blank">Lucas Fernandes</a>
 
