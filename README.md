@@ -25,7 +25,7 @@ Tecnologias e Linguagens usados nesse projeto:
 
 Dicas
 
-Se possível faça o Curso Cypress: automação de testes E2E no Site Alura, para seguir as didáticas e entender os processos da automação de Teste
+Se possível faça o Curso Cypress: automação de testes E2E no Site Alura, para seguir as didáticas e entender os processos da automação de Teste.
 
 Made by <a href="https://github.com/Luca5Fernandes" target="_blank">Lucas Fernandes</a>
 
