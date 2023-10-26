@@ -25,6 +25,8 @@ Tecnologias e Linguagens usados nesse projeto:
 
   ## Dicas
 
+  sdkpdjgodnjakngojnasdgojnaojgnaojdngonadojgnojagnodjangojadngojndlagnaojknglokdnagnoangdondapkgaopjk.
+
 Made by <a href="https://github.com/Luca5Fernandes" target="_blank">Lucas Fernandes</a>
 
 &#xa0;
